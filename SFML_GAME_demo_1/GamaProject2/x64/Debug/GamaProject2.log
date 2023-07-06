@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\main.cpp(33,20): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\main.cpp(62,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\main.cpp(70,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\main.cpp(78,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\main.cpp(86,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  GamaProject2.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\RPSLS\GamaProject2\x64\Debug\GamaProject2.exe
