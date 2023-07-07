@@ -1,0 +1,135 @@
+﻿  main.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(122,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(122,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(228,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(232,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(232,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(232,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(232,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(238,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(242,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(242,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(242,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(242,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(248,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(252,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(252,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(252,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(252,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(258,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(262,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(262,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(262,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(269,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(273,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(273,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(279,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(283,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(283,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(289,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(293,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(293,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(299,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(303,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\main.cpp(303,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  GamaProject2.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\SFML_GAME\SFML_GAME_DEMO_3\SFML_GAME_DEMO_3\x64\Debug\GamaProject2.exe
